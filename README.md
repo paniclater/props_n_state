@@ -1,6 +1,6 @@
-##Propping State and Stating Props
+## Propping State and Stating Props
 
 State and Props examples
 
-##run
+## run
 yarn start
